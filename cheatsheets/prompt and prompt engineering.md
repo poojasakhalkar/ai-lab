@@ -22,9 +22,10 @@ A **prompt** is a **powerful, comprehensive request for an AI model to generate 
 | **Instruction + Context**      | Combine instructions with background/context for structured output |
 
 ---
+## 1️⃣ What is Prompt Engineering?
 
-## 1️⃣ What is Prompt Engineering?  
-**Prompt Engineering** is the art of **crafting inputs (prompts) for AI/LLMs** to get **accurate, useful, and controlled outputs**.
+Prompt Engineering is **the art of crafting inputs** (prompts) for AI/LLMs **to get accurate, useful, and controlled outputs**.
+
 ---
 
 ## 2️⃣ ICO Framework  
