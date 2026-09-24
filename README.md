@@ -12,6 +12,7 @@ AI-Labs/
 │
 ├── cheatsheets/
 │   └── prompt and prompt engineering.md
+|   └── rag eavaluation metrics.md
 │
 └── README.md
 ```
